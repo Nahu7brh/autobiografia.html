@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang ="es">
-<head>
-	<meta charset="utf-8">
-	<meta name="author content="nahum velasco>
-	<meta name="DESCRIPTIOMCONTENT"=mi primer pagina web>
-	<meta nameviewport content=width=device-width,
-	intial-scale=1.0>
+
 	<title>mi autobiografia</title>
 	<h1>edgar nahum velasco hernandez</h1>
 	<style>
