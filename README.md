@@ -1,4 +1,11 @@
-
+<!DOCTYPE html>
+<html lang ="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="author content="edgar nahum velasco hernandez>
+	<meta name="DESCRIPTIOMCONTENT"=>
+	<meta nameviewport content=width=device-width,
+	intial-scale=1.0>
 	<title>mi autobiografia</title>
 	<h1>edgar nahum velasco hernandez</h1>
 	<style>
@@ -83,10 +90,10 @@
         <p class="formato2">Se considera amable a una persona cuando ésta posee cualidades,</p>
         <p class="formato3">que le permiten ser gentil,afectuosa, cariñosa, agradable y respetuosa con otros,</p>
         <p class="formato1">al momento de interactuar con ellos de forma interpersonal..</p>
-       </p>
     </section>
     <footer>
         &copy; 2024 Autobiografía - Bachillerato Tecnologico ern Programación.
     </footer>
 </body>
 </html>
+	
