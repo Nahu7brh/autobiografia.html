@@ -68,8 +68,10 @@
         <p>Nací en ciudad guzman jalisco mexico en la fecha de (16 de nero del 2008)</p>
         <p>mi nombre completo es edgar nahum velasco hernandez tengo 16 años de edad,e tenido muchas experiencias durante toda mi vida 
         	siempre e sido una persona muy inperactiva,alegre,feliz y sobre todo muy competitiva en cualquier cosa y esa ambicion de ser el mejor en todo
-        	eso me hace especial y conforma mi personalidad tambien el ser una persona muy empatica y solidaria con los demas,
-        	desde niño 
+        	eso me hace especial y conforma mi personalidad tambien el ser una persona muy empatica y solidaria con los demas.
+        	cuando era niño e iba en el kinder era muy hinperactivo pero me la pase bien en el kinder ise amigos ,
+        	despues en la primaria los 6 grados los pase como abanderado y con diplomas y tambien reconocimientos 
+        	en la secundaria ise demaciados amigos con los que sigo conviviendo ahora en el cbtis conoci nuevos amigos pero me sigo hablando y viendo con mis amigos de la secundaria 
         </p> 
             </section>
     
@@ -96,4 +98,3 @@
     </footer>
 </body>
 </html>
-	
